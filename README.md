@@ -1,2 +1,2 @@
 # webAppRSG
-School web made for a 
+School web made for a class.
